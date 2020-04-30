@@ -1,3 +1,6 @@
 [submodule "PiscineCPPD00"]
 	path = PiscineCPPD00
 	url = https://github.com/fr0xy/PiscineCPPD00
+[submodule "PiscineCPPD01"]
+	path = PiscineCPPD01
+	url = https://github.com/fr0xy/PiscineCPPD01
